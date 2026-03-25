@@ -1,6 +1,7 @@
 ### Hi! I am Davi Oliveira, but you call me a ooffNw or Nw.
 #### I studying analysis and development systems
 
+<!-- Stats Github --->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -11,7 +12,12 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <div>
+     <!-- GIF --->
+  <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69c4b6e7&is=69c36567&hm=1c2177d6457d979c77af4504e4a9261252791cec43001bb305ca8e678bff7a7e&" />
+  </div>
+</picture> 
+
 
 #### <p> Linguage And Hobbies </p>
 
@@ -24,7 +30,7 @@
               <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
 </div>
 
-##
+
 #### <p> Social Links </p>
 
 <div> <!--- Buttons --->
