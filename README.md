@@ -11,13 +11,12 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img alt="Stats Github |Script Paused By Developer|" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   <div>
      <!-- GIF --->
-  <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69c4b6e7&is=69c36567&hm=1c2177d6457d979c77af4504e4a9261252791cec43001bb305ca8e678bff7a7e&" />
+  <img alt="Gif_Logo" align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69c4b6e7&is=69c36567&hm=1c2177d6457d979c77af4504e4a9261252791cec43001bb305ca8e678bff7a7e&" />
   </div>
 </picture> 
-
 
 #### <p> Linguage And Hobbies </p>
 
