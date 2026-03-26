@@ -4,8 +4,8 @@
 <!-- Stats Github --->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
@@ -18,17 +18,23 @@
   </div>
 </picture> 
 
-#### <p> Linguage And Hobbies </p>
+#### <p> Linguage Studying </p>
 
 <div> <!--- icons linguage ----->
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
       <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
           <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-            <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
-              <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
 </div>
 
+#### <p> Usage Tools </p>
+ 
+<div> <!-- Icons Tools -->
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+      <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
+  
+</div>
 
 #### <p> Social Links </p>
 
