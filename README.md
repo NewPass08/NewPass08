@@ -1,22 +1,8 @@
 ### Hi! I am Davi Oliveira, but you call me a ooffNw or Nw.
 #### I studying analysis and development systems
 
-<!-- Stats Github --->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="Stats Github |Script Paused By Developer|" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  <div>
-     <!-- GIF --->
-  <img alt="Gif_Logo" align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69c4b6e7&is=69c36567&hm=1c2177d6457d979c77af4504e4a9261252791cec43001bb305ca8e678bff7a7e&" />
-  </div>
-</picture> 
+
+
 
 #### <p> Linguage Studying </p>
 
@@ -47,3 +33,16 @@
   <a href="https://open.spotify.com/user/21eux5kevv2gyjzx6ehf4ahiy" target="_blank"> <img alt="Nw_Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.duolingo.com/profile/ooffNw?via=share_profile_link" target="_blank"> <img alt="Nw-Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 </div>
+<!-- Stats Github --->
+<div align="left" alt="StatusCript Paused">  
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewPass08&theme=nord_dark)
+<!--EDITAR
+<picture>
+  <img align="right" height="200" width="200" alt="Error: Gif-logo" src="https://media.discordapp.net/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69d28ea7&is=69d13d27&hm=bf8a8ca54439a809ade16934a25215216e9222c982eddf6bf0bb85b4bfbcdc09&=&width=810&height=810" />
+ </picture>
+</div> -->
+
+ 
+ 
+ 
