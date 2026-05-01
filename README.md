@@ -6,21 +6,20 @@
 
 #### <p> Linguage Studying </p>
 
-<div> <!--- icons linguage ----->
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
-      <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-        <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
-          <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-</div>
+ <!--- icons linguage ----->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### <p> Usage Tools </p>
  
-<div> <!-- Icons Tools -->
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
-      <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
-  
-</div>
+<!-- Icons Tools -->
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
 
 #### <p> Social Links </p>
 
@@ -33,10 +32,13 @@
   <a href="https://open.spotify.com/user/21eux5kevv2gyjzx6ehf4ahiy" target="_blank"> <img alt="Nw_Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.duolingo.com/profile/ooffNw?via=share_profile_link" target="_blank"> <img alt="Nw-Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 </div>
-<!-- Stats Github --->
-<div align="left" alt="StatusCript Paused">  
+
+<div align="left" alt="StatusCript Paused">  <!-- Stats Github --->
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewPass08&theme=nord_dark)
+</div>
+
+
 <!--EDITAR
 <picture>
   <img align="right" height="200" width="200" alt="Error: Gif-logo" src="https://media.discordapp.net/attachments/1205243244498124882/1486221252241653770/hdz739j.gif?ex=69d28ea7&is=69d13d27&hm=bf8a8ca54439a809ade16934a25215216e9222c982eddf6bf0bb85b4bfbcdc09&=&width=810&height=810" />
